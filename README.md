@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvinashNutalapati
+- 👋 Hi, I’m @AvinashNutalapati //
 I usually operate in a pragmatic manner and 
 succeed in an organization where my skills like 
 technical, analytical, and leadership contribute to the 
