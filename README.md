@@ -12,6 +12,11 @@ I approach challenges pragmatically, thriving in environments where my technical
 
 #### 📫 Get in touch:
 - Email: [avinash.nutalapati@gmail.com](mailto:avinash.nutalapati@gmail.com)
+
+
+[![Gmail logo](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avinash.nutalapati@gmail.com)
+
+
 <a href="https://www.linkedin.com/in/avinash-nutalapati?trk=profile-badge">
   <img align="left" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn logo badge">
 </a>
