@@ -1,19 +1,15 @@
 - 👋 Hi, I’m @AvinashNutalapati 
 
-I usually operate in a pragmatic manner and 
-succeed in an organization where my skills like 
-technical, analytical, and leadership contribute to the 
-organization's security as well as my own professional advancement. 
+### Hello there! 👋
 
-I am also a voracious student of new products and 
-their security. 
+I approach challenges pragmatically, thriving in environments where my technical, analytical, and leadership skills can bolster organizational security while propelling my own professional growth. 
 
-In addition,
-I am an avid reader of threat intelligence. 
-Emerging security technologies and 
-paradigms pique my curiosity.
+📚 Beyond my professional endeavors, I'm constantly learning about new products and their security implications. 
+🔍 A keen enthusiast, I religiously follow threat intelligence and am always intrigued by emerging security technologies and paradigms.
 
-Contact Me:
-avinash.nutalapati@gmail.com
-linkedin.com/in/avinash-nutalapati  
+#### 📫 Get in touch:
+- Email: [avinash.nutalapati@gmail.com](mailto:avinash.nutalapati@gmail.com)
+- LinkedIn: [![LinkedIn logo](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/avinash-nutalapati)
+
+
 
