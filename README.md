@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvinashNutalapati 
+👋 Hi, I’m @AvinashNutalapati 
 
 ### Hello There! 👋
 
