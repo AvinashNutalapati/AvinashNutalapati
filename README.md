@@ -12,3 +12,8 @@ In addition,
 I am an avid reader of threat intelligence. 
 Emerging security technologies and 
 paradigms pique my curiosity.
+
+Contact Me:
+avinash.nutalapati@gmail.com
+linkedin.com/in/avinash-nutalapati  
+
