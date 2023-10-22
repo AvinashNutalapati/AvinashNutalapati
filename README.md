@@ -22,9 +22,6 @@ I approach challenges pragmatically, thriving in environments where my technical
 Empowering the Security Community to Foster Resilient Businesses and a Safer World.
 
 
-### Connect with me on LinkedIn:
-
-
 
 
               
