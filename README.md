@@ -2,7 +2,7 @@
 
 ### Hello There! 👋
 
-Little Bit about myself:
+Little Bit about Myself:
 I approach challenges pragmatically, thriving in environments where my technical, analytical, and leadership skills can bolster organizational security while propelling my own professional growth. 
 
 📚 Beyond my professional endeavors, I'm constantly learning about new products and their security implications. 
