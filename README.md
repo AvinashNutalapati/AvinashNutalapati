@@ -17,8 +17,7 @@ I approach challenges pragmatically, thriving in environments where my technical
 - <a href="https://www.linkedin.com/in/avinash-nutalapati?trk=profile-badge">
   <img align="left" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn logo badge">
 </a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="avinash-nutalapati" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/avinash-nutalapati?trk=profile-badge">Avinash Nutalapati</a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="avinash-nutalapati" data-version="v1"> <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/avinash-nutalapati?trk=profile-badge">Avinash Nutalapati</a>
 </div>
 
 
